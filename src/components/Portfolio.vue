@@ -26,15 +26,32 @@
         <div class="md:w-1/2 w-full md:px-10 flex flex-col justify-between text-left mt-4 md:mt-0">
           <div>
             <h4 class="text-2xl leading-6 font-medium text-gray-900">Saf'Eat Progressive Web App</h4>
-            <div class>
-              <p class="mt-5 text-xl text-gray-600">
-                I'm the CEO of SafEat UG. Safeat is a progressive web app that digitizes the traditional ordering and payment process in restaurants.
-                <br />In this project I am responsible for the Front end and Back end programming.
-                The project is realized as a progressive web app in Vue Js.
-              </p>
-
-              <br />
-              <p class="mt-5 text-xl text-gray-600">Created: 20.07.2020</p>
+            <div>
+              <ul class="mt-5 text-xl text-gray-600">
+                <li>• Management of the company’s software solution and involvement in the entire development lifecycle of their product.</li>
+                <br />
+                <li>
+                  • Design and build the entire Front-End using the modern
+                  <span class="font-bold text-yellow-700">Javascript</span> framework
+                  <span class="font-bold text-yellow-700">Vue Js</span>. The challenge here was to deliver responsive, cross browser compatible and accessibility complient components.
+                </li>
+                <br />
+                <li>
+                  • Maintain and develop the Back-End using
+                  <span class="font-bold text-yellow-700">Node Js</span>,
+                  <span class="font-bold text-yellow-700">Express</span> and
+                  <span class="font-bold text-yellow-700">Mongo Db</span>.
+                </li>
+                <br />
+                <li>
+                  •
+                  <span class="font-bold text-yellow-700">Dockerize</span> the Web App and automate the software delivery process using
+                  <span class="font-bold text-yellow-700">
+                    CI/CD pipeline
+                    Jenkins
+                  </span>.
+                </li>
+              </ul>
               <br />
               <a
                 href="https://www.safeat.de"
@@ -42,7 +59,7 @@
                 target="_blank"
               >www.safeat.de</a>
 
-              <div class="mt-10">
+              <!-- <div class="mt-10">
                 <h1>
                   Frontend:
                   <span class="text-gray-700">Vue Js · Tailwind CSS</span>
@@ -55,7 +72,7 @@
                   Payment:
                   <span class="text-gray-700">Stripe · PayPal Api</span>
                 </h1>
-              </div>
+              </div>-->
             </div>
           </div>
         </div>
@@ -69,28 +86,44 @@
             <h4
               class="text-2xl leading-6 font-medium text-gray-900"
             >Paarfit Progressive Web App & IOS App</h4>
-            <div class>
-              <p class="mt-5 text-xl text-gray-600">
-                Paarfit finally brings fitness for couples into the living room.
+            <div>
+              <ul class="mt-5 text-xl text-gray-600">
+                <li>• It was my responsibility to develop the Front-End and the Back-End within the munich startup Paarfit Ug. This included management of the company’s software solution and involvement in the entire development lifecycle of their product.</li>
                 <br />
-                <br />In this project I am responsible for the Front end and Back end programming.
-                <br>
-                
-              </p>
+                <li>
+                  • Designing and building the Front-End using
+                  <span class="font-bold text-yellow-700">Javascript</span> framework
+                  <span class="font-bold text-yellow-700">React Js</span> and the Css framework
+                  <span class="font-bold text-yellow-700">Tailwind Css</span>.
+                </li>
+                <br />
+                <li>
+                  • Maintain and develop the Back-End with
+                  <span class="font-bold text-yellow-700">Node Js</span>,
+                  <span class="font-bold text-yellow-700">Strapi (CMS)</span> and
+                  <span class="font-bold text-yellow-700">Mongo Db</span> as Database.
+                </li>
+                <br />
+                <li>
+                  • Ios App developement using
+                  <span class="font-bold text-yellow-700">Flutter</span>
+                </li>
+              </ul>
 
               <br />
-              <div class="px-1 py-1 rounded-full bg-orange-500 text-white text-center shadow"> In closed beta</div>
+              <div
+                class="px-1 py-1 rounded-full bg-orange-500 text-white text-center shadow"
+              >In closed beta</div>
 
               <br />
-              <p class="mt-5 text-xl text-gray-600">Created: 10.03.2020</p>
-              <br />
+
               <!-- <a
                 href="https://www.safeat.de"
                 class="hover:text-yellow-700 text-xl"
                 target="_blank"
               >www.safeat.de</a>-->
 
-              <div class="mt-10">
+              <!-- <div class="mt-10">
                 <h1>
                   Frontend:
                   <span class="text-gray-700">Vue Js · Tailwind CSS</span>
@@ -107,7 +140,7 @@
                   Payment:
                   <span class="text-gray-700">Stripe</span>
                 </h1>
-              </div>
+              </div>-->
             </div>
           </div>
         </div>

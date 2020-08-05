@@ -52,6 +52,7 @@
           </a>
           <transition name="slide-fade">
             <p v-if="service.show" class="text-gray-900 my-3 text-xl">{{service.dropDown}}</p>
+            <!-- <img v-if="service.show" src="../assets/skill.png" alt=""> -->
           </transition>
         </div>
       </div>
@@ -85,7 +86,7 @@ export default {
           name: "Cloud development",
           show: false,
           dropDown:
-            "Kubernetes · OpenShift · Linux · Terraform · GO Lang · Kubernetes Operator"
+            "Docker · Kubernetes · OpenShift · Linux · Terraform · GO Lang · Kubernetes Operator · Jenkins"
         },
         {
           name: "Game development",
